@@ -5,7 +5,6 @@ import cors from 'cors';
 import indexRoutes from './routes/indexRoutes';
 import gamesRoutes from './routes/gamesRoutes';
 
-
 class Server {
 
     public app: Application
